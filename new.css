@@ -6,6 +6,11 @@
   order: 0
 }
 
+.text-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem
+}
+
 * {
   --tw-shadow: 0 0 #0000
 }
